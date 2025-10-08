@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
   color: green;
   display: flex;
@@ -22,3 +23,29 @@ img {
   font-weight: bold;
   margin-left: 30px;
 }
+=======
+.container {
+  color: green;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+img {
+  width: 60px;
+}
+
+.addicon {
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+.subicon {
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+>>>>>>> 36d7ca6 (Added multiple projects folder)
